@@ -1,0 +1,34 @@
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\bin\Debug\MediaHotkey.exe.config
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\bin\Debug\MediaHotkey.exe
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\bin\Debug\MediaHotkey.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\bin\Debug\MediaHotkey.xml
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MediaHotkey.vbprojResolveAssemblyReference.cache
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MainWindow.g.vb
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\Application.g.vb
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MediaHotkey_MarkupCompile.cache
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MediaHotkey_MarkupCompile.lref
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MainWindow.baml
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MediaHotkey.g.resources
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MediaHotkey.Resources.resources
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MediaHotkey.vbproj.GenerateResource.Cache
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MediaHotkey.exe
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MediaHotkey.xml
+C:\Users\pc\AppData\Local\Temporary Projects\MediaHotkey\obj\Debug\MediaHotkey.pdb
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\bin\Debug\MediaHotkey.exe.config
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MediaHotkey.exe
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MediaHotkey.xml
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MediaHotkey.pdb
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\bin\Debug\MediaHotkey.exe
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\bin\Debug\MediaHotkey.pdb
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\bin\Debug\MediaHotkey.xml
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MediaHotkey.vbprojResolveAssemblyReference.cache
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MainWindow.g.vb
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\Application.g.vb
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MediaHotkey_MarkupCompile.cache
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MediaHotkey_MarkupCompile.lref
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MainWindow.baml
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MediaHotkey.g.resources
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MediaHotkey.Resources.resources
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\MediaHotkey.vbproj.GenerateResource.Cache
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\HotkeySelector.g.vb
+D:\Visual Studio Files\MediaHotkey\MediaHotkey\obj\Debug\HotkeySelector.baml

@@ -1,0 +1,23 @@
+﻿<Window x:Class="HotkeySelector"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MediaHotkey"
+        mc:Ignorable="d"
+        Title="Hotkey Selector" Height="161.278" Width="300" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="Hotkey" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cb_hotkey" Margin="10,30,10,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Center" Margin="0,57,0,0" TextWrapping="Wrap" Text="Modifier" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cb_mod" Margin="10,78,10,0" VerticalAlignment="Top">
+            <ComboBoxItem Content="NO MOD"/>
+            <ComboBoxItem Content="CTRL"/>
+            <ComboBoxItem Content="SHIFT"/>
+            <ComboBoxItem Content="ALT"/>
+            <ComboBoxItem Content="WIN"/>
+        </ComboBox>
+        <Button x:Name="btn_done" Content="Done" HorizontalAlignment="Center" Margin="0,105,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
